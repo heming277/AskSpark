@@ -1,0 +1,10 @@
+# General
+.DS_Store
+.env
+
+# Node
+node_modules/
+dist/
+
+# TypeScript
+*.tsbuildinfo
