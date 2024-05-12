@@ -5,10 +5,10 @@ AskSpark is a web application designed to interact with open sourced LLMs locall
 ## Screenshots
 
 ### Prompt One
-![Prompt One](https://github.com/heming277/AskSpark/screenshots/Picture1.png)
+![Prompt One](https://raw.githubusercontent.com/heming277/AskSpark/main/screenshots/Picture1.png)
 
 ### Prompt Two
-![Prompt Two](https://github.com/heming277/AskSpark/screenshots/Picture2.png)
+![Prompt Two](https://raw.githubusercontent.com/heming277/AskSpark/main/screenshots/Picture2.png)
 
 
 ## Features
