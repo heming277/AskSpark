@@ -2,12 +2,21 @@
 
 AskSpark is a web application designed to interact with open sourced LLMs locally. With the power of Ollama, AskSpark leverages the power of Llama3 and can be customized to work with any fine-tuned model. This showcases a prototype free version of LearnSpark AI fine tuned on programming tasks, showcasing the potential of fine tuning open-source LLM models with web technologies.
 
+## Screenshots
+
+### Prompt One
+![Prompt One](https://raw.githubusercontent.com/heming277/AskSpark/main/screenshots/Picture1.png)
+
+### Prompt Two
+![Prompt Two](https://raw.githubusercontent.com/heming277/AskSpark/main/screenshots/Picture2.png)
+
+
 ## Features
 
 - **Custom Model Support**: Utilize your own trained models or leverage pre-built ones from Ollama or GGUF models from Hugging Face.
 - **Local Processing**: All processing is done locally to ensure privacy and speed.
 - **Modern Frontend**: Built using React and TailwindCSS for a responsive and modern user interface.
-- **Easy Customization**: Simple setup allows for easy customization and extension.
+- **Easy Customization**: Simple setup allows for easy customization and extension. For exmpale, codes are formatted and users can copy the codes easily. 
 
 ## Prerequisites
 
